@@ -1,70 +1,9 @@
-胖东来
-于东来
-
-DeepSeek
-梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
 谷歌
 google
 gemini
 deepmind
+nano banana
+veo
 
 chatgpt
 openai
@@ -73,41 +12,142 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
+grok
+xai
+马斯克
 
-ai
-!gai
+microsoft copilot 
+azure ai
+
+DeepSeek
+梁文锋
+
+Qwen
+wan
+通义千问
+通义万相
+百炼
+
+doubao
+豆包
+
+kimi
+llama
+
+GLM
+智谱
+
+百度文心
+阿里通义
+腾讯混元
+字节豆包
+智谱AI
+月之暗面
+零一万物
+MiniMax
+
+AI
+LLM
+AIGC
 人工智能
+大模型
+大语言模型
+编程模型
+多模态
 
-自动驾驶
+Prompt
+提示词
+上下文
 
-机器人
+MCP
+function calling 
+A2A
 
-国产
-中国
+RAG
+Embeddings
+向量
+知识库
+检索增强
 
-美国
-日本
-韩国
+comfyui
+midjourney
+stable diffusion
 
-芯片
-光刻机
+文生图
+图生图
+图生视频
+文生视频
+图片生成
+视频生成
+音乐生成
+
+Agent
+n8n
+coze
+dify
+工作流
+
+AI coding
+vite coding
+CodeBuddy
+Cursor
+Trea
+Kiro
+Qoder
+Antigravity
+氛围编程
+
+Claude code
+Gemini cli
+codebuddy-code
+iflow-cli
+Firebase Studio
+
+10xRules.ai
+
+Stitch
+
+GitHub
+开源
+
+Supabase
+
+Java
+JDK
+Spring Boot
+Spring Cloud
+JVM
+MyBatis
+!招聘!培训!面试
+
+Kubernetes
+Docker
+K8s
+Redis
+Kafka
+Elasticsearch
+分布式
+高并发
+!教程!入门
+
+JavaScript
+TypeScript
+React
+Vue.js
+Next.js
+Flutter
+React Native
+ArkTS
+前端
+小程序
++技术
+!招聘!广告
+
+GEO
 
 科技
+教育
+教师
 
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
+hugging face
+modelscope
