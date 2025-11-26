@@ -4,6 +4,7 @@ gemini
 deepmind
 nano banana
 veo
+!美股
 
 chatgpt
 openai
@@ -14,7 +15,6 @@ Anthropic
 
 grok
 xai
-马斯克
 
 microsoft copilot 
 azure ai
